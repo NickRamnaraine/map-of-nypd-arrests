@@ -12,4 +12,4 @@ To set up this project locally, follow these steps:
 4. Run the program
 
 # Instructions
-Pick a date between 2024-01-01 and 2024-03-31 to see arrests for your picked date.
+Pick a date between 2024-01-01 and 2024-03-31 to see arrests on the map for your picked date.
